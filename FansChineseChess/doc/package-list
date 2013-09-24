@@ -1,0 +1,14 @@
+cn.fansunion.chinesechess
+cn.fansunion.chinesechess.ai
+cn.fansunion.chinesechess.config
+cn.fansunion.chinesechess.core
+cn.fansunion.chinesechess.ext.empress
+cn.fansunion.chinesechess.ext.maze
+cn.fansunion.chinesechess.load
+cn.fansunion.chinesechess.net
+cn.fansunion.chinesechess.net.client
+cn.fansunion.chinesechess.net.common
+cn.fansunion.chinesechess.net.server
+cn.fansunion.chinesechess.print.all
+cn.fansunion.chinesechess.print.part
+cn.fansunion.chinesechess.save
